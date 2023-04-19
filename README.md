@@ -1,4 +1,4 @@
-# HR_Analytics_Kaggle
+## HR_Analytics_Kaggle
 
 #### This is implementation of Machine Learning graduate course project.  The project relies mainly on the numpy, sklearn, pandas, Pytorch, plotly, pickle and matplotlib.
 
